@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ExamplePlugin\\Controllers\\": "src/",
+      "ExamplePlugin\\Core\\": "includes/"
+    }
+  }
+}
